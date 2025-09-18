@@ -55,11 +55,11 @@ The Social Media Ad Campaign Dashboard is an interactive solution built using **
 | File | Description |
 |------|-------------|
 | `KAG_conversion_data_raw.csv` | Raw social media ad dataset |
-| `KAG ipynb.ipynb` | Python notebook for EDA, metrics, and visualizations |
+| `Kag.ipynb` | Python notebook for EDA, metrics, and visualizations |
 | `kag.pbix` | Power BI dashboard with KPIs and insights |
-| `Optimizing Social Media Ad Campaign Performance for Audience.ppt` | Final presentation/report with recommendations |
-|`kag- dashboard-export.pdf`| Power BI all export plots |
-|`KAG.ipynb - export pdf.pdf`| Python all export code and  plots |
+| `Kag ppt.pdf` | Final presentation/report with recommendations |
+| `Kag Power BI export.pdf`| Power BI all export plots |
+| `Kag Python export.pdf`| Python all export code and  plots |
 | `README.md` | GitHub summary of the project |
 
 ------------------------------------------------------------------------
