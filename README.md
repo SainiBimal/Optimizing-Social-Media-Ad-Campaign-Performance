@@ -35,8 +35,8 @@ The Social Media Ad Campaign Dashboard is an interactive solution built using **
 📊 Dashboards and Visuals  
 
 ### Power BI Dashboard  
-![kag- dashboard-export_page-0014](https://github.com/user-attachments/assets/563f78a4-f20c-48da-8d31-21516b0b8dcc)
- 
+![Kag Power BI export_page-0014](https://github.com/user-attachments/assets/c30c818a-e7bb-436b-8195-0e67c72d9a2b)
+
 
 
 ------------------------------------------------------------------------
