@@ -119,5 +119,3 @@ Data Analyst Intern
 ![Hits](https://hits.sh/github.com/SainiBimal/MyRepo.svg?style=flat-square)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHub&style=flat-square)  
-![Hits](https://hits.sh/github.com/YourGitHub/YourRepo.svg?style=flat-square)  
