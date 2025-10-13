@@ -1,7 +1,7 @@
 # 📢 SOCIAL-MEDIA-ADS
 This repository presents an in-depth **data analysis and visualization** of Social Media Ad Campaigns using Python and Power BI, with the goal of **maximizing ROI and optimizing ad performance**.
 
-# 📊 Social Media Ad Campaign Optimization 
+# 📊 Social Media Ad Campaign Optimization  
 
 ------------------------------------------------------------------------
 
